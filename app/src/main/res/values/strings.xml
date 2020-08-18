@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="actone">Number 1</string>
+    <string name="actnum">Number 2</string>
+    <string name="actonebutton">OK</string>
+    <string name="acttwonnoe">Numbre 1</string>
+    <string name="acttnt">Number 2</string>
+    <string name="aone">+</string>
+    <string name="atwo">-</string>
+    <string name="athree">*</string>
+    <string name="afour">/</string>
+
+
+</resources>
